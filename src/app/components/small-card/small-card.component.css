@@ -1,0 +1,10 @@
+.container__small-card{
+  border: solid silver 2px;
+  width: 300px;
+  height: 500px;
+  margin-right: 50px;
+}
+.small-card__foto{
+  width: 10px;
+  height: 10px;
+}

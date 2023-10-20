@@ -1,0 +1,14 @@
+*{
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+
+.artigos{
+  display: flex;
+}
+
+.artigos__direita{
+  
+}

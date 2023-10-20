@@ -1,0 +1,28 @@
+*{
+  background-color: white;
+}
+
+.container__big-card{
+  border: solid silver 2px;
+  width: 1300px;
+  height: 300px;
+  display: flex;
+
+}
+.big-card__foto{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.big-card__conteudo{
+  margin-top: 75px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.big-card__conteudo__descricao{
+  margin-top: 20px;
+  text-align: justify;
+}
+#big-card__conteudo__data{
+  color: silver;
+  margin-bottom: 10px;
+}
